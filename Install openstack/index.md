@@ -1,9 +1,6 @@
----
-title: '6. Install OpenStack AIO with Kolla-Ansible in Ubuntu'
-date: 2022-03-09
-weight: 6
----
----
+# Install OpenStack AIO with Kolla-Ansible in Ubuntu
+
+
 > Specification : OpenStack Yoga, Kolla-ansible, Ubuntu, All-in-one
 
 
